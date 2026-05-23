@@ -1,6 +1,12 @@
 {
-  "key": "VIP001",
-  "machine_code": "03C31A63",
-  "expiry": "2026-12-31",
-  "activated_at": "2025-01-20 15:30:00"
+  "keys": [
+    {
+      "machine_code": "03C31A63",
+      "key": "VIP001",
+      "expiry": "2026-12-31",
+      "status": "active",
+      "note": "Admin Key",
+      "created_at": "2025-01-20"
+    }
+  ]
 }
