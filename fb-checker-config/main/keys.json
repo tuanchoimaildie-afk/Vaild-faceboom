@@ -10,3 +10,16 @@
     }
   ]
 }
+
+{
+  "keys": [
+    {
+      "machine_code": "395782D6",
+      "key": "admin",
+      "expiry": "2026-12-31",
+      "status": "active",
+      "note": "Admin Key",
+      "created_at": "2025-01-20"
+    }
+  ]
+}
