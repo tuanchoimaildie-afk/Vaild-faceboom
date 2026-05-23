@@ -1,8 +1,8 @@
 {
   "keys": [
     {
-      "machine_code": "03C31A63",
-      "key": "VIP001",
+      "machine_code": "395782D6",
+      "key": "admin",
       "expiry": "2026-12-31",
       "status": "active",
       "note": "Admin Key",
